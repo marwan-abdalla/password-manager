@@ -7,6 +7,8 @@ A simple Python app to generate and save strong, random passwords. Built with Tk
 - **Generate Passwords**: Create secure, random passwords.
 - **Auto Copy**: Copies the password to your clipboard instantly.
 - **Save Credentials**: Store website, email, and password in a text file.
+- **Search Saved Passwords**: Quickly retrieve saved credentials by website.
+
 
 ## How to Use
 1. Click **Generate Password**.
